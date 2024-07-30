@@ -16,12 +16,12 @@ state regarding text rendering for the user in a safe and efficient way.
 
 The state of TTFR is currently incomplete and not in a usable condition.
 There are many missing basic components that any renderer would need.
-[Here] (#feature-list) is a list of planned features, as well as which
+[Here](#feature-list) is a list of planned features, as well as which
 version that feature was added (if applicable).
 
 ### Required Dependencies
 
-- [SDL2] (https://www.libsdl.org) is required.
+- [SDL2](https://www.libsdl.org) is required.
 
 ### Supported Files
 
